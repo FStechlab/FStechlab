@@ -119,7 +119,7 @@ My work spans both backend and frontend development. On the backend, I design an
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)](#)
 
 ### 🔟 Language
-[![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Polish-blue)](#)
+[![Languages](https://img.shields.io/badge/Languages-English)](#)
 
 
 ⭐️ Thank you,

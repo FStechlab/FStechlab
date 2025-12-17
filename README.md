@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 My name is Bálint Göröcs and I am a senior Full-Stack Software Engineer with 10 years of hands-on experience building and running production software.
 My work spans both backend and frontend development. On the backend, I design and implement APIs, microservices, and cloud-based systems that perform reliably under real production traffic. On the frontend, I build modern, user-focused web interfaces, working closely with designers to deliver responsive, maintainable, and intuitive user experiences that integrate cleanly with backend services.
